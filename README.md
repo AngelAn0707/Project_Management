@@ -1,32 +1,29 @@
-# Project_Management_Portfolio - Мое Портфолио по Управлению Проектами
+# Project_Management_Portfolio - My Portfolio in Project Management
 
-Привет! Меня зовут Ання. Добро пожаловать в мое портфолио проектов по управлению проектами!
+Hello! My name is Anna. 
+Welcome to my project management portfolio! Here I showcase my skills and practical experience in planning, organizing, executing, and monitoring projects. My projects cover various aspects of project management, including the use of specialized tools, Agile methodologies, requirements management, and documentation.
 
-Здесь я демонстрирую свои навыки и практический опыт в планировании, организации, выполнении и мониторинге проектов. Мои проекты охватывают различные аспекты проджект-менеджмента, включая использование специализированных инструментов, Agile-методологий, управление требованиями и документацией.
+Key Skills:
+Methodologies: Agile (Scrum, Kanban), Waterfall (basic principles).
+Task Management: Jira (issue creation, tracking, workflows, boards).
+Documentation & Collaboration: Confluence (project documentation, meeting notes, requirements tracking).
+Planning & Tracking: Trello, Miro.
+Requirements Management: User Stories, Backlog Refinement.
+Communication & Reporting: Experience facilitating stand-ups, retrospectives, and preparing project reports.
 
-## Ключевые навыки:
+## Project Overview:
 
-* **Методологии:** Agile (Scrum, Kanban), Waterfall (основные принципы).
-* **Управление задачами:** Jira (создание, отслеживание, workflow, доски).
-* **Документация и коллаборация:** Confluence (ведение проектной документации, протоколы встреч, требований).
-* **Планирование и отслеживание:**  Trello, Miro.
-* **Управление требованиями:** User Stories, Backlog Refinement.
-* **Коммуникация и отчетность:** (Опыт проведения стендапов, ретроспектив, подготовки отчетов).
+## 👥 Group/Real Projects
+* **[Group Project: Pet Adoption Platform (Agile approach)](https://github.com/AngelAn0707/Project_Management_Portfolio/tree/main/Group_Project_Pet_Adoption_Platform)
+    Description: A real/simulated group project focused on developing a mobile application, where I served as the Scrum Master. Includes a demonstration of project management using Jira and Confluence.
+    Key Skills: Agile, Scrum, Jira, Confluence, team management.
 
 
-## Обзор проектов:
+* **[Training Case: Sprint Planning and Backlog Management](Sprint_Planning_Case/README.md)**
+     Description: Simulation of the sprint planning process, decomposition of User Stories, and backlog management in Jira.
+     Key Skills: Agile, Scrum, backlog, User Stories, Jira.
 
-## 👥 Групповые/Реальные проекты 
-* **[Групповой проект: Pet Adoption Platform (Agile подход)](https://github.com/AngelAn0707/Project_Management_Portfolio/tree/main/Group_Project_Pet_Adoption_Platform)
-    * **Описание:** Описание реального/смоделированного группового проекта по разработке мобильного приложения, где я віполняла роль Scrum Master. Включает демонстрацию ведения проекта в Jira и Confluence.
-    * **Ключевые навыки:** Agile, Scrum, Jira, Confluence, управление командой.
- 
-
-### 📚 Учебные проекты / Кейсы
-* **[Учебный кейс: Планирование спринта и управление бэклогом](Sprint_Planning_Case/README.md)**
-    * **Описание:** Моделирование процесса планирования спринта, декомпозиции User Stories и управления бэклогом в Jira.
-    * **Ключевые навыки:** Agile, Scrum, бэклог, User Stories, Jira.
-## Контакты:
+##Contacts:
 
 * **LinkedIn:**https://www.linkedin.com/in/hanna-samoilenko7/
 * **Email:** angelan0707@gmail.com
