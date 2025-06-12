@@ -20,7 +20,7 @@
 ![image](https://github.com/user-attachments/assets/af07b619-1692-4967-be8b-899500e80e8a)
 ![image](https://github.com/user-attachments/assets/06fb75a5-7b2e-4f58-872a-b98db93c5525)
 ![image](https://github.com/user-attachments/assets/f95bd108-2af9-4396-b13d-b0e9388f0137)
-
+*Ukraniam language
 ![image](https://github.com/user-attachments/assets/6300cead-91b9-423f-9294-229ed2bdca0d)
 ![image](https://github.com/user-attachments/assets/ef1de9ee-05ca-4989-862a-33604ff47267)
 ![image](https://github.com/user-attachments/assets/ef2ff2a2-95a5-4eab-9080-5290375df157)
