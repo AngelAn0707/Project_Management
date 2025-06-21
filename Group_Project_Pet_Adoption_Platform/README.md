@@ -24,6 +24,7 @@
 
 
 *Ukraniam language
+![image](https://github.com/user-attachments/assets/23058260-a0bd-459c-a0ef-ad8afa46dac1)
 ![image](https://github.com/user-attachments/assets/6300cead-91b9-423f-9294-229ed2bdca0d)
 ![image](https://github.com/user-attachments/assets/ef1de9ee-05ca-4989-862a-33604ff47267)
 ![image](https://github.com/user-attachments/assets/ef2ff2a2-95a5-4eab-9080-5290375df157)
