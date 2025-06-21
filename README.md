@@ -14,7 +14,7 @@ Communication & Reporting: Experience facilitating stand-ups, retrospectives, an
 ## Project Overview:
 
 ## 👥 Group/Real Projects
-* **[Group Project: Pet Adoption Platform (Agile approach)](https://github.com/AngelAn0707/Project_Management_Portfolio/tree/main/Group_Project_Pet_Adoption_Platform)
+* **[Group Project: Pet Adoption Platform (Agile approach)] English (https://github.com/AngelAn0707/Project_Management_Portfolio/tree/main/Group_Project_Pet_Adoption_Platform) Ukranian 
     Description: A real/simulated group project focused on developing a mobile application, where I served as the Scrum Master. Includes a demonstration of project management using Jira and Confluence.
     Key Skills: Agile, Scrum, Jira, Confluence, team management.
 
